@@ -1,0 +1,8 @@
+.bg-img{
+    background-color: #10151B;
+    background: url(/img/pexels-photo-3806749.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
